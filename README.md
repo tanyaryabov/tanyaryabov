@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tanya Ezra
-- 
+- 🔭 I'm an Information Management Master's student specializing in Data Science.
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Reinforcement Learning 
 - 💞️ I’m looking to collaborate on ...
